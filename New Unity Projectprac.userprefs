@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/spriteThree.cs">
+    <Files>
+      <File FileName="Assets/spriteThree.cs" Line="5" Column="38" />
+      <File FileName="Assets/spriteFour.cs" Line="5" Column="37" />
+      <File FileName="Assets/spriteFive.cs" Line="5" Column="37" />
+      <File FileName="Assets/MasterClass.cs" Line="5" Column="14" />
+      <File FileName="Assets/spriteTwo.cs" Line="5" Column="36" />
+      <File FileName="Assets/spriteZero.cs" Line="5" Column="37" />
+      <File FileName="Assets/spriteOne.cs" Line="5" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
