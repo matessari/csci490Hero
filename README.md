@@ -1,1 +1,2 @@
-# csci490Hero
+# guitarheroclone
+GuitarHeroClone
